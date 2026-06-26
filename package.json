@@ -1,0 +1,22 @@
+{
+  "name": "mrd",
+  "version": "1.0.0",
+  "description": "Premium WebRTC Remote Desktop with Input Control via PowerShell",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  },
+  "keywords": [
+    "remote-desktop",
+    "webrtc",
+    "websocket",
+    "powershell",
+    "anydesk"
+  ],
+  "author": "",
+  "license": "MIT"
+}
